@@ -13,7 +13,7 @@ Esse teste é apresentado aos candidatos à vaga de desenvolvedor para avaliar o
 **Requisitos:**
 
 * A aplicação deverá ser feita com React ou Angular
-* A aplicação deverá ser responsiva, pois será testada no desktop e celular
+* A aplicação deverá ser responsiva, pois será testada no desktop e celular
 * Hospedagem do projeto (Heroku, Netlify, Azure/AWS gratuitos, etc.)
 
 **O que deverá ser feito?**
@@ -54,7 +54,6 @@ Para garantir que o usuário encontre o filme que está procurando, essa lista d
 ## Dúvidas
 Caso haja qualquer dúvida sobre o teste, nos envie um email para [desenvolvimento@ubbonline.org.br](mailto:desenvolvimento@ubbonline.org.br) com o título: `[Teste Desenvolvedor] Briefing da dúvida`
 
--
 Obrigado e bom desafio!
 
 
